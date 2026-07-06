@@ -50,6 +50,8 @@ Write only these 2 tests (volume is not the goal):
 
 Write your answers in `SUBMISSION.md`.
 
+---
+
 ## Deliverables & Submission
 
 Your repo should contain:
@@ -60,8 +62,13 @@ To submit:
 1. On the template repo page, click "Use this template" → "Create a new repository".
 2. Set the owner to your own account and the visibility to **Private**.
 3. Push your work to the `main` branch.
-4. Invite our reviewers as collaborators: **Settings → Collaborators → Add people** → invite all four:
-   - hosun-a
+4. Invite our reviewers as collaborators: **Settings → Collaborators → Add people** → invite:
+   - `hosun-a`
+   - `yourHooni`
 5. Email us once you're done so we can begin the review.
 
 Keep the repository private.
+
+---
+
+_v1.1_
